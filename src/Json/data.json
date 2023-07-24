@@ -1,0 +1,22 @@
+{
+  "heading": "Create Company",
+  "basicDetals": {
+    "title": "Basic Details",
+    "inputFields": [
+      "Legal Name",
+      "Short Name",
+      "Registration Country",
+      "Primary Email Id",
+      "Primary Phone Number"
+    ],
+    "address": [
+      "Type",
+      "Address Line",
+      "Country",
+      "State",
+      "City",
+      "ZIP Code/ Postal Code",
+      "Full Address"
+    ]
+  }
+}
